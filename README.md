@@ -125,3 +125,4 @@ Les résultats de test s’affichent dans un rapport "cucumber-report.html" sous
 
 # cucumber-selenium
 "# AutomationQA" 
+"# TestAdminPortal-master" 
